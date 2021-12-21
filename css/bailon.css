@@ -1,0 +1,914 @@
+*{
+    resize: both;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    outline: none;
+}
+:root{
+    --font1: 'Fredericka the Great', cursive;
+    --font2: 'Rowdies', cursive;
+    --font3: 'Montserrat', sans-serif;
+    --font4: 'Cookie', cursive;
+    --font5: 'Montserrat', sans-serif; /*monserrat regular*/
+    --font6: 'Montserrat', sans-serif;  /*monserrat bold*/
+    --font7: 'Montserrat', sans-serif;  /*monserrat medium*/
+}
+
+
+.bai1 .bai11{
+    width: 100%;
+    height: 826px;
+    background-color: #ffe001;
+    position: relative;
+    
+}
+.bai1 .bai11 .rectangle{
+    position: absolute;
+    margin-top: 0px;
+    width: 36%;
+    height: 100%;
+    margin-left: 972px;
+    
+}
+
+.bai1 .bai11 .C1{
+    width: 1440px;
+    height: 120px;
+    display: flex;
+    top: 0px; left: 0px;
+    background-size: cover;
+     
+}
+
+.bai1 .bai11 .C1 ._1cot1{
+   width: 1140px;
+   padding-top: 40px;
+   padding-left: 55px;
+}
+.bai1 .bai11 .C1 ._1cot1 .dau{
+    width: 285px;
+    height: 68px;
+}
+.bai1 .bai11 .C1 ._1cot2{
+    position: absolute;
+    width: 250px;
+    top: 0; left: 1150px;
+}
+.bai1 .bai11 .C1 ._1cot2 .tren{
+    padding-top: 55px;
+    font-size: 13px;
+   text-align: end;
+   font-family: var(--font2);
+}
+.bai1 .bai11 .C1 ._1cot2 .duoi{
+    font-size: 22px;
+    text-align: end;
+    font-family: var(--font2);
+    
+}
+.bai1 .bai11 .C1 ._1cot3{
+    width: 50px;
+    padding-top: 45px;
+    padding-left: 1420px;
+    position: absolute;
+    
+}
+.bai1 .bai11 .C1 ._1cot3 img{
+    width: 26px;
+    height: 53px;
+}
+ul{
+    width: 100%;
+    text-align: end;
+    padding-right: 90px;
+    position: absolute;
+}
+a:link, a:active, a:visited{
+    text-decoration: none;
+    color: black;
+    
+}
+li{
+    padding-top: 10px;
+    height: 40px;
+    font-family: var(--font3);
+    margin: auto;
+    font-size: 16px;
+    list-style: none;
+    display: inline-block;
+    margin-left: 80px; 
+}
+ul li a:hover{
+    color: white;
+}
+.bai1 .C12{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.bai1 .C12 .khoi1{
+    width: 660px;
+    height: 100%;
+}
+.bai1 .C12 .C1{
+    margin-top: 40px;
+    margin-left: 78px;
+}
+.bai1 .C12 .khoi1 .C1 .hinh3{
+    width: 57px;
+    height: 95px;
+}
+.bai1 .C12 .khoi1 .C1 h1{
+    margin-top: 20px;
+    padding-left: 45px;
+    font-size: 66px;
+    font-family: var(--font4);
+} 
+
+.bai1 .C12 .khoi1 .C2 .p1{
+    font-size: 90px;
+    padding-left: 87px ;
+    font-family: var(--font1);
+}
+.bai1 .C12 .khoi1 .C2 .p2{
+    padding-top: 15px;
+    padding-left: 120px;
+    font-size: 27px;
+    font-family: var(--font3);
+}
+.bai1 .C12 .khoi1 .C2 hr{
+    margin-top: 30px;
+    width: 470px;
+    margin-left: 120px;
+}
+.bai1 .C12 .khoi1 .C2 .C21{
+    width: 100%;
+    display: flex;
+    margin-top: 15px;
+    font-family: var(--font1);
+}
+.bai1 .C12 .khoi1 .C2 .C21 .C211{
+    width: 54%;
+    text-align: end;
+    font-size: 20px;
+    padding-top: 19px;
+    margin: 0;
+}
+.bai1 .C12 .khoi1 .C2 .C21 .C212{
+    padding-left: 17px;
+    width: 46%;
+    font-size: 62px;
+    margin: 0;
+}
+.bai1 .C12 .khoi1 .C2 .p3{
+    margin-top: 20px;
+    margin-left: 238px;
+    width: 238px;
+    height: 58px;
+    border: 2px solid transparent;
+    border-color: black;
+    
+}
+.bai1 .C12 .khoi1 .C2 .p3 h2{
+    justify-content: center;
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: var(--font3);
+    text-align: center;
+    text-transform: uppercase;
+}
+.bai1 .C12 .khoi1 .C2 .p3:hover{
+    background-color: red;
+    color: white;
+    
+}
+.bai1 .C12 .khoi1 .hinh5{
+    width: 305px;
+    height: 287px;
+    margin-left: -138px;
+}
+.bai1 .C12 .khoi2 {
+    width: 780px;
+    height: 100%;
+    display: flex;
+    
+}
+.bai1 .C12 .khoi2 .cot1 {
+    width: 100px;
+    height: 100%;
+    
+   
+}
+.bai1 .C12 .khoi2 .cot2 {
+    width: 570px ;
+    height: 100%;
+    position: absolute;
+    top: 150px; left: 750px;
+}
+.bai1 .C12 .khoi2 .cot3 {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 670px;
+    width: 100px;
+    height: 100%;
+}
+
+
+.bai1 .C12 .khoi2 .cot1 .hinh2{
+    width: 98px;
+    height: 98px;
+    margin-top: 20px;
+    
+    
+    
+}
+.bai1 .C12 .khoi2 .cot2 .hinh1{
+    width: 570px;
+    height: 570px;
+    margin-top: 50px;
+   
+    
+}
+.bai1 .C12 .khoi2 .cot3 .hinh4{
+    width: 88px;
+    height: 110px;
+    margin-top: 480px;
+    margin-left: -20px;
+}
+
+.bai1 .C12 .khoi2 .cot1 .hinh6{
+    width: 83px;
+    height: 83px;
+    margin-left: -10px;
+    margin-top: 410px;
+    
+}
+.bai1 .bai12{
+    width: 100%;
+    height: 680px;
+    
+}
+.bai1 .bai12 .p1{
+    text-align: center;
+    padding-top: 87px;
+    font-size: 47px;
+    font-family: var(--font1);
+}
+
+.bai1 .bai12 .p2 pre{
+    text-align: center;
+    padding-top: 30px;
+    font-family: var(--font5);
+    
+}
+.bai1 .bai12 .A {
+    padding-top: 150px;
+    height: 450px;
+    flex-wrap: wrap;
+}
+.bai1 .bai12 .A .bo{
+    width: 100%;
+   position: relative;
+   display: flex;
+}
+.bai1 .bai12 .A .bo .hole{
+    width: 100%;
+    height: 140px;
+    background-color: #e8e6a9;
+    position: absolute;
+    top: 0; left: 0;
+}
+
+.bai1 .bai12 .A .bo .img1 img{
+    width: 33%;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: -100px; left: 70px;
+}
+
+.bai1 .bai12 .A .img2 img{
+    width: 33%;
+    width: 375px;
+    height: 350px;
+    position: absolute;
+    top: -100px; left: 565px;
+}
+
+.bai1 .bai12 .A .img3 img{
+    width: 33%;
+    width: 360px;
+    height: 360px;
+    position: absolute;
+    top: -100px; left: 1080px;
+} 
+
+.bai1 .Do .Doo{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.bai1 .Do .Doo .Do1{
+    justify-content: center;
+    text-align: center;
+    width: 33%;
+}
+.bai1 .Do .Doo .Do1 .B3{
+    text-align: center;
+    font-family: var(--font6);
+    font-size: 16px;
+
+}
+.bai1 .Do .Doo .Do1 pre{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 13px;
+    font-family: var(--font5);
+}
+.bai1 .Do .Doo .Do1 .khung{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 150px;
+    width: 195px;
+    height: 57px;
+    background-color: #ffe001;
+    border: yellow;
+}
+.bai1 .Do .Doo .Do1 .khung h4{
+    padding-top: 20px;
+    font-family: var(--font6);
+}
+.bai1 .Do .Doo .Do1 .khung:hover{
+    background-color: black;
+    color: white;
+}
+.bai1 .bai13{
+    justify-content: center;
+    text-align: center;   
+    margin-top: 150px;
+    width: 100%;
+    height: 140px;
+}
+.bai1 .bai13 h4{
+    font-size: 18px;
+    font-family: var(--font6);
+}
+.bai1 .bai13 p{
+    font-family: var(--font1);
+    font-size: 34px;
+}
+.bai1 .bai13 pre{
+    font-size: 14px;
+    font-family: var(--font5);
+    margin-top: 25px;
+}
+.bai1 .bai14 .hinh00{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    position: relative;
+    
+}
+.bai1 .bai14 .hinh00 .hinh11{
+    width: 33.3%;
+    height: 350px;
+    
+}
+.bai1 .bai14 .hinh00 .hinh12{
+    width: 33.3%;
+    height: 350px;
+
+}
+.bai1 .bai14 .hinh00 .hinh13{
+    width: 33.3%;
+    height: 350px;
+}
+.bai1 .bai14 .hinh00 .hinh11 img{
+    width: 100%;
+    height: 70%;
+    margin: 50px 0;
+    position: relative;
+    top: 0; left: 0;
+}
+.bai1 .bai14 .hinh00 .hinh12 img{
+    width: 100%;
+    height: 70%;
+    position: relative;
+    margin: 50px 0;
+    top: 0; left: 0;
+}
+.bai1 .bai14 .hinh00 .hinh13 img{
+    width: 100%;
+    height: 70%;
+    margin: 50px 0;
+    position: relative;
+    top: 0; left: 0;
+}
+.bai1 .bai14 .hinh00 .hinh11 .den{
+    position: absolute;
+    background: black;
+    width: 33.3%;
+    height: 70%;
+    top: 50px; left: 0;
+    opacity: 0.4;
+}
+.bai1 .bai14 .hinh00 .hinh12 .den{
+    position: absolute;
+    background: black;
+    width: 33.4%;
+    height: 70%;
+    top: 50px; left: 33.3%;
+    opacity: 0.4;
+}
+.bai1 .bai14 .hinh00 .hinh13 .den{
+    position: absolute;
+    background: black;
+    width: 33.3%;
+    height: 70%;
+    top: 50px; left: 66.6%;
+    opacity: 0.4;
+    
+}
+.bai1 .bai14 .hinh00 .hinh11:hover{
+
+  width: 600px;
+  height: 120%;
+  margin-top: -30px; left: 0;
+  transition: 0.7s;
+  
+}
+.bai1 .bai14 .hinh00 .hinh12:hover{
+    width: 600px;
+    height: 120%;
+    margin-top: -30px; left: 0;
+    transition: 0.7s;
+    
+}
+.bai1 .bai14 .hinh00 .hinh13:hover{
+    width: 600px;
+    height: 120%;
+    margin-top: -30px; left: 0;
+    transition: 0.7s;
+}
+.bai1 .bai14 .hinh00 .hinh11:hover .den{
+    opacity: 0;
+    width: 600px;
+    height: 120%;
+    margin-top: -30px; left: 0;
+    transition: 0.7s;
+    
+  }
+  .bai1 .bai14 .hinh00 .hinh12:hover .den{
+      opacity: 0;
+      width: 600px;
+      height: 120%;
+      margin-top: -30px; left: 0;
+      transition: 0.7s;
+      
+  }
+  .bai1 .bai14 .hinh00 .hinh13:hover .den{
+      opacity: 0;
+      width: 600px;
+      height: 120%;
+      margin-top: -30px; left: 0;
+      transition: 0.7s;
+  }
+.bai1 .bai14 .hinh00 .hinh11 .tron{
+      color: #d8d8d8;
+      text-align: center;
+      margin-right: -970px;
+  }
+.bai1 .bai14 .hinh00 .hinh12 .tron{
+    color: #d8d8d8;
+    text-align: center;
+}
+.bai1 .bai14 .hinh00 .hinh13 .tron{
+    color: #d8d8d8;
+    text-align: center;
+    margin-left: -970px;
+}
+.bai1 .bai14 .hinh00 .hinh11 .tron:hover{
+    color: #f7d901;
+    margin-right: -970px;
+}
+.bai1 .bai14 .hinh00 .hinh12 .tron:hover{
+  color: #f7d901;
+  text-align: center;
+}
+.bai1 .bai14 .hinh00 .hinh13 .tron:hover{
+  color: #f7d901;
+  margin-left: -970px;
+}
+.bai1 .bai15{
+    margin-top: 115px;
+    display: flex;
+    width: 100%;
+    height: 480px;
+}
+.bai1 .bai15 .cot1{
+    width: 52%;
+    height: 100%;
+}
+.bai1 .bai15 .cot1 .motminh{
+    position: relative;
+}
+.bai1 .bai15 .cot1 .motminh img{
+    width: 598px;
+    margin-left: 150px;
+    height: 420px;
+    position: relative;
+}
+.bai1 .bai15 .cot1 .motminh h3{
+    font-size: 28px;
+    position: absolute;
+    top: 35px; left: 190px;
+    font-family: var(--font6);
+    color: white;
+}
+.bai1 .bai15 .cot1 .motminh h2{
+    font-size: 40px;
+    position: absolute;
+    top: 70px; left: 190px;
+    font-family: var(--font6);
+    color: white;
+}
+.bai1 .bai15 .cot2{
+    width: 48%;
+}
+
+.bai1 .bai15 .cot2 .tren {
+    position: relative;
+}
+.bai1 .bai15 .cot2 .tren img{
+    width: 595px;
+    height: 192px;
+    position: relative;
+}
+.bai1 .bai15 .cot2 .tren h3{
+    font-size: 28px;
+    position: absolute;
+    top: 25px; left: 30px;
+    font-family: var(--font6);
+    color: white;
+}
+.bai1 .bai15 .cot2 .tren h2{
+    font-size: 30px;
+    position: absolute;
+    top: 60px; left: 30px;
+    font-family: var(--font6);
+    color: white;
+}
+
+.bai1 .bai15 .cot2 .duoi{
+    position: relative;
+}
+.bai1 .bai15 .cot2 .duoi img{
+    margin-top: 31px;
+    width: 595px;
+    height: 192px;
+    position: relative;
+}
+.bai1 .bai15 .cot2 .duoi h3{
+    font-size: 28px;
+    position: absolute;
+    top: 56px; left: 30px;
+    font-family: var(--font6);
+    color: white;
+}
+.bai1 .bai15 .cot2 .duoi h2{
+    font-size: 30px;
+    position: absolute;
+    top: 90px; left: 30px;
+    font-family: var(--font6);
+    color: white;
+}
+.bai1 .bai16{
+    width: 100%;
+    height: 530px;
+    text-align: center;
+    padding-top: 30px;
+}
+.bai1 .bai16 .dau h3{
+    font-family: var(--font6);
+    font-size: 18px;
+}
+.bai1 .bai16 .dau p{
+    font-family: var(--font1);
+    font-size: 45px;
+}
+.bai1 .bai16 .cuoi{
+    margin-top: 91px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.bai1 .bai16 .cuoi .cottrai{
+    width: 50%;
+}
+.bai1 .bai16 .cuoi .cottrai input{
+    margin: 0 auto;
+    margin-left: 328px;
+    margin-top: 28px;
+    font-family: var(--font5);
+    display: block;
+    width: 380px;
+    height: 65px;
+    color: #3d3d3d;
+    padding-left: 24px;
+    background-repeat: no-repeat;
+    border-radius: 3px;
+}
+.bai1 .bai16 .cuoi .cotphai{
+    width: 50%;
+}
+.bai1 .bai16 .cuoi .cotphai input{
+    text-align: start;
+    margin-top: 28px;
+    font-family: var(--font5);
+    display: block;
+    width: 380px;
+    height: 65px;
+    color: #3d3d3d;
+    padding-left: 24px;
+    background-repeat: no-repeat;
+    border-radius: 3px;
+}
+.bai1 .bai16 .cuoi .cotphai .dacbiet input{
+    background-color: #ffe001;
+}
+.bai1 .bai17{
+    margin-top: 100px;
+    color: white;
+    position: relative;
+}
+.bai1 .bai17 .img10{
+    width: 100%;
+    height: 582px;
+    position: relative;
+}
+.bai1 .bai17  .img20{
+    position: absolute;
+     top: 65px; left: 100px;
+}
+.bai1 .bai17 .p21{
+    color: white;
+    width: 514px;
+    height: 91px;
+    font-size: 16px;
+    font-family: var(--font5);
+    position: absolute;
+    top: 215px; left: 100px;
+}
+.bai1 .bai17 .p22{
+    color: white;
+    width: 514px;
+    height: 91px;
+    font-size: 16px;
+    font-family: var(--font5);
+    position: absolute;
+    top: 474px; left: 100px;
+}
+.bai1 .bai17  .img40{
+    position: absolute;
+     top: 228px; left: 902px;
+}
+.bai1 .bai17  .img50{
+    position: absolute;
+     top: 280px; left: 902px;
+}
+.bai1 .bai17 .p23{
+    color: white;
+    width: 514px;
+    height: 91px;
+    font-size: 18px;
+    font-family: var(--font7);
+    position: absolute;
+    top: 235px; left: 969px;
+}
+.bai1 .bai17 .p24{
+    color: white;
+    width: 514px;
+    height: 91px;
+    font-size: 18px;
+    font-family: var(--font7);
+    position: absolute;
+    top: 282px; left: 969px;
+}
+.bai1 .bai17 .icon{
+    position: absolute;
+    top: 464px; left: 1200px;
+}
+.bai1 .bai17 .icon img{
+    margin-left: 12px;
+}
+@media screen and (max-width: 1000px){
+    
+    .bai1 .bai11{
+        width: 140%;
+        height: 826px;
+        background-color: #ffe001;
+        position: relative;
+    }
+    .bai1 .bai12 .p1{
+        width: 153%;
+        text-align: center;
+    }
+    .bai1 .bai12 .p2{
+        width: 153%;
+        text-align: center;
+}
+.bai1 .bai12 .A .bo{
+    width: 148%;
+}
+.bai1 .Do .Doo{
+    width: 153%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.bai1 .Do .Doo .Do1 .khung{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 160px;
+    width: 195px;
+    height: 57px;
+    background-color: #ffe001;
+    border: yellow;
+}
+.bai1 .bai13{
+    justify-content: center;
+    text-align: center;   
+    margin-top: 150px;
+    width: 153%;
+    height: 140px;
+}
+.bai1 .bai14 .hinh00{
+    width: 153%;
+    height: 350px;
+    display: flex;
+    position: relative;
+}
+.bai1 .bai15{
+    margin-top: 115px;
+    display: flex;
+    width: 153%;
+    height: 480px;
+}
+.bai1 .bai16 .dau {
+    width: 153%;
+    text-align: center;
+    font-family: var(--font1);
+    font-size: 45px;
+}
+.bai1 .bai16 .cuoi{
+    margin-top: 91px;
+    width: 153%;
+    height: 100%;
+    display: flex;
+}
+.bai1 .bai17{
+    width: 153%;
+}
+}
+@media screen and (max-width: 700px){
+    
+    .bai1 .bai11{
+        width: 200%;
+        height: 826px;
+        background-color: #ffe001;
+        position: relative;
+    }
+    .bai1 .bai12 .p1{
+        width: 200%;
+        text-align: center;
+    }
+    .bai1 .bai12 .p2{
+        width: 200%;
+        text-align: center;
+}
+.bai1 .bai12 .A .bo{
+    width: 210%;
+}
+.bai1 .Do .Doo{
+    width: 218%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.bai1 .Do .Doo .Do1 .khung{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 160px;
+    width: 195px;
+    height: 57px;
+    background-color: #ffe001;
+    border: yellow;
+}
+.bai1 .bai13{
+    justify-content: center;
+    text-align: center;   
+    margin-top: 150px;
+    width: 200%;
+    height: 140px;
+}
+.bai1 .bai14 .hinh00{
+    width: 210%;
+    height: 350px;
+    display: flex;
+    position: relative;
+}
+.bai1 .bai15{
+    margin-top: 115px;
+    display: flex;
+    width: 220%;
+    height: 480px;
+}
+.bai1 .bai16 .dau {
+    width: 210%;
+    text-align: center;
+    font-family: var(--font1);
+    font-size: 45px;
+}
+.bai1 .bai16 .cuoi{
+    margin-top: 91px;
+    width: 210%;
+    height: 100%;
+    display: flex;
+}
+.bai1 .bai17{
+    width: 210%;
+}
+}
+@media screen and (max-width: 500px){
+    
+    .bai1 .bai11{
+        width: 300%;
+        height: 826px;
+        background-color: #ffe001;
+        position: relative;
+    }
+    .bai1 .bai12 .p1{
+        width: 300%;
+        text-align: center;
+    }
+    .bai1 .bai12 .p2{
+        width: 300%;
+        text-align: center;
+}
+.bai1 .bai12 .A .bo{
+    width: 320%;
+}
+.bai1 .Do .Doo{
+    width: 307%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.bai1 .Do .Doo .Do1 .khung{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 160px;
+    width: 195px;
+    height: 57px;
+    background-color: #ffe001;
+    border: yellow;
+}
+.bai1 .bai13{
+    justify-content: center;
+    text-align: center;   
+    margin-top: 150px;
+    width: 320%;
+    height: 140px;
+}
+.bai1 .bai14 .hinh00{
+    width: 320%;
+    height: 350px;
+    display: flex;
+    position: relative;
+}
+.bai1 .bai15{
+    margin-top: 115px;
+    display: flex;
+    width: 320%;
+    height: 480px;
+}
+.bai1 .bai16 .dau {
+    width: 320%;
+    text-align: center;
+    font-family: var(--font1);
+    font-size: 45px;
+}
+.bai1 .bai16 .cuoi{
+    margin-top: 91px;
+    width: 320%;
+    height: 100%;
+    display: flex;
+}
+.bai1 .bai17{
+    width: 320%;
+}
+}
